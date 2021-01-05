@@ -1,0 +1,24 @@
+{
+  "name": "restnode",
+  "version": "1.0.0",
+  "description": "latihan rest api nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NIx8D/restnode.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "neemu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NIx8D/restnode/issues"
+  },
+  "homepage": "https://github.com/NIx8D/restnode#readme"
+}
